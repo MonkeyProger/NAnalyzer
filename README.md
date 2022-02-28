@@ -41,3 +41,8 @@ _(Their various combinations)_
 - Основной класс с реализацией анализа файла
 - Файл mainModule.jar
 - Файл на языке Java (NullExamples.java), содержащий примеры использования null/not-null значений
+
+# How to use it?
+После сборки проекта в IDEA, убедитесь, что подаваемый аргумент содержит путь к .class файлу. Или используйте .jar файл.        
+_(After building the project in IDEA, make sure that the program arguments contain the path to the .class file e.g, )_
+![image](https://user-images.githubusercontent.com/70843205/155979532-da4c5191-4caf-467b-b12f-a01ff9386427.png)
